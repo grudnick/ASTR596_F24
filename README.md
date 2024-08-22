@@ -1,2 +1,1 @@
-# README
-Class site for ASTR 596 Fall 2024
+This is the repository for all ASTR596 computer and observing projects for Fall 2024
