@@ -1,2 +1,2 @@
-# ASTR596_F24
+# README
 Class site for ASTR 596 Fall 2024
